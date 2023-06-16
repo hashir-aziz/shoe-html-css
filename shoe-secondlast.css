@@ -1,0 +1,26 @@
+.flex3{
+    display: flex;
+    margin-top: 150px;
+     
+    top: -60px;
+}
+.box2{
+    
+    
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+  font-size: 17px;
+    text-align: left;
+    width: 240px;
+    margin-left:  176px;
+    align-items: center;
+    margin-top:80px ;
+    color: rgb(94, 86, 86);
+}
+h2{
+    color: black;
+}
+.img3-container3{
+margin: 0;
+    
+}

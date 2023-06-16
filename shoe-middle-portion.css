@@ -1,0 +1,20 @@
+.flex2{
+    display: flex;
+    margin-top: 250px;
+    justify-content: space-between;
+    top: -60px;
+}
+.box1{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    color: rgb(94, 86, 86);
+    text-align: right;
+    width: 240px;
+    margin-left: 300px;
+    align-items: center;
+    margin-top:80px ;
+}
+.img2-container2{
+
+    margin-right: 100px;
+}
