@@ -1,11 +1,33 @@
 .navbar{
+    display: flex;
     font-style: Raleway, Arial;
     font-weight: 700;
+    height: 40px;
+     justify-content: space-between;
 margin-left: 180px;
 font-size: x-large;
-    
+ 
  
 
+}
+nav{
+    margin-top: 35px;
+}
+.home , .sneaker, .player
+{
+    
+    color:white;
+    display: flex;
+    z-index: 1;
+    margin-top: 35px;
+    
+ 
+}
+.home{
+    margin-left: 600px;
+}
+.player{
+    margin-right: 100px;
 }
 .red{
     color: red;
@@ -14,6 +36,7 @@ font-size: x-large;
     position: relative;
 }
 .img{
+    display: flex;
 position: absolute;
 right: -150px;
 top: -57px;
